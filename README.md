@@ -1,7 +1,7 @@
 # Solidity_Joint_Savings_Account
 ![ScreenShot of ethereum](https://blog.waostudio.com/content/images/2019/11/smart-contract-1-1.png)
 
-This is a Solidity Smart Cortract that allows two users with seperate addresses the ability to deposit and withdraw into a joint saving's account.
+This is a Solidity Smart Contract that allows two users with separate addresses the ability to deposit and withdraw into a joint saving's account.
 
 ---
 ## Technologies:
