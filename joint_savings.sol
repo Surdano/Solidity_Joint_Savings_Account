@@ -35,7 +35,7 @@ contract JointSavings {
         /*
         Define a `require` statement that checks if the `balance` is sufficient to accomplish the withdraw operation. If there are insufficient funds, the text `Insufficient funds!` is returned.
         */
-        require(contractBalance > amount, "You don't have enough funds!");
+        require(contractBalance > amount, "You do not have enough funds!");
 
         /*
         Add and `if` statement to check if the `lastToWithdraw` is not equal to (`!=`) to `recipient` If `lastToWithdraw` is not equal, then set it to the current value of `recipient`.
