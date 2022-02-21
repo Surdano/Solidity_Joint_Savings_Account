@@ -31,9 +31,8 @@ To interact with the smart contract:
 
 ---
 ## Visualizations
-![Screenshot of app]()
 
-![Screenshot of app]()
+For visualizations view the _Execution Results_ folder provided in the repo
 
 ---
 ## Contributors:
